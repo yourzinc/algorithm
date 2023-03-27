@@ -35,3 +35,4 @@ tree(0,0,n) # (0,0)에서 시작
 
 # answer의 모든 원소를 공백 없이 출력
 print(*answer,sep='')
+
